@@ -1,0 +1,30 @@
+
+Irj programot alapok.py néven és abban old meg a következő feladatokat!
+ 
+1. Feladat
+A  program  a felhasználótól bekéri először a keresztnevét, majd a vezetéknevét. 
+A program ezután összefűzi ezeket egy teljes_nev nevű változóba. 
+Végül a program a teljes nevén üdvözli a felhasználót!
+
+""" Minta
+Kérem a keresztneved: Béla
+Kérem a vezeték neved: Kis
+Üdvözöllek Kis Béla
+"""
+
+2. Feladat
+A program bekér egy számot a felhasználótól, és valamilyen matemataikai műveletek sorozataként generál és kiír a felhasználónak egy szerencseszámot!
+
+"""Minta
+Kérek egy számot: 12
+A szerencse számod:1213
+"""
+
+3. Feladat
+Hozz létre minden általad ismert váltózó típusból egyet és annak az értékét írasd ki!
+
+"""Minta
+Egész : 123
+..... : ...
+....
+"""
