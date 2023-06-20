@@ -13,7 +13,7 @@ f.close()
 CsapatokHazai=set()
 CsapatokVendeg=set()
 for merkozes in adatok:
-    #print(merkozes[5])
+    print(merkozes[5])
     CsapatokHazai.add(merkozes[5])
     CsapatokVendeg.add(merkozes[5])
 
